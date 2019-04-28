@@ -1,0 +1,283 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:2:1-89:12
+MERGED from [com.lht:paintview:1.17] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\paintview-1.17.aar\9624046888d2e1db28e192e05e433a4b\AndroidManifest.xml:2:1-17:12
+MERGED from [com.h6ah4i.android.widget.verticalseekbar:verticalseekbar:0.7.2] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\verticalseekbar-0.7.2.aar\59698fc0d657fc807d6b41e91ca34891\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\7018ea31001c8b20505135d37ee976d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\fresco-1.4.0.aar\b292ea0beb0e45c61a72071b881a44f2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\animated-gif-1.4.0.aar\8f9fc9beecb153d4596e4cb5cf48c35e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-webp:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\animated-webp-1.4.0.aar\b50390987da76d34015b24809bb1194c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\115d3452e8bd96a04083cc01cf7b3ec7\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\ac2e0591ecceb259803dd596e1310dcd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\6200ca38815877af34f214867fd3012c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\a9fdaf64c1b923f4c4fcbf0bf3f5c84d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\30fa5728b854c539b275850aff8cf736\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\939af0c81a3a046d10dfd85b5b8c3ff9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\4436329ae52f99d45a8fb645eacd0d44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:animated-base:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\animated-base-1.4.0.aar\deb3d19d6c4537d0384f0523db76522c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.4.0.aar\9e8ff607b1baab94cd5c34524f014882\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\drawee-1.4.0.aar\72534061a2adbddd30fd8b5566b81ec5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.4.0.aar\a02f297eabc512f2e1aaf2a8e105463b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:webpsupport:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\webpsupport-1.4.0.aar\d2033ff61ad9d52eae5a10557f7c6984\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.4.0.aar\46baf3ab19bb4e559699e43e64ea812f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\fbcore-1.4.0.aar\0430e4b361565de683ba0633f7df8343\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c8815bb2bc3c2a4c85e2cd5b360e1893\AndroidManifest.xml:17:1-30:12
+	package
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:4:11-50
+	xmlns:tools
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:3:11-57
+	xmlns:android
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:5:11-51
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:7:22-72
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:8:22-75
+uses-permission#android.permission.INTERNET
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.READ_PHONE_SINTERNETWIFI_STATE
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:12:5-89
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:12:22-86
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.CAMERA
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:15:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:16:22-68
+uses-permission#android.permission.FLASHLIGHT
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:17:5-69
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:17:22-66
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:18:22-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:20:5-73
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:20:22-71
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:21:5-74
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:21:22-72
+uses-feature#android.hardware.camera
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:24:19-67
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:26:22-63
+application
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:28:5-87:19
+MERGED from [com.lht:paintview:1.17] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\paintview-1.17.aar\9624046888d2e1db28e192e05e433a4b\AndroidManifest.xml:11:5-15:19
+MERGED from [com.lht:paintview:1.17] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\paintview-1.17.aar\9624046888d2e1db28e192e05e433a4b\AndroidManifest.xml:11:5-15:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c8815bb2bc3c2a4c85e2cd5b360e1893\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c8815bb2bc3c2a4c85e2cd5b360e1893\AndroidManifest.xml:24:5-28:19
+	android:launchMode
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:37:9-44
+	android:largeHeap
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:36:9-33
+	android:icon
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:34:9-45
+	android:anyDensity
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:32:9-34
+	android:screenOrientation
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:40:9-45
+	android:supportsRtl
+		ADDED from [com.lht:paintview:1.17] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\paintview-1.17.aar\9624046888d2e1db28e192e05e433a4b\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:35:9-41
+	android:smallScreens
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:41:9-36
+	android:normalScreens
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:38:9-37
+	android:hardwareAccelerated
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:33:9-43
+	android:persistent
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:39:9-35
+	android:alwaysRetainTaskState
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:31:9-45
+	android:allowBackup
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:30:9-36
+		REJECTED from [com.lht:paintview:1.17] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\paintview-1.17.aar\9624046888d2e1db28e192e05e433a4b\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:42:9-40
+	tools:replace
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:29:9-44
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:43:9-40
+activity#com.ksyun.media.streamer.demo.DemoActivity
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:44:9-55:20
+	android:screenOrientation
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:48:13-49
+	android:launchMode
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:47:13-43
+	android:configChanges
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:46:13-74
+	android:theme
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:49:13-55
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:45:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:50:13-54:29
+action#android.intent.action.MAIN
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:53:27-74
+activity#com.ksyun.media.streamer.demo.BaseCameraActivity
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:56:9-62:20
+	android:screenOrientation
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:60:13-49
+	android:launchMode
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:59:13-43
+	android:configChanges
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:58:13-74
+	android:theme
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:61:13-55
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:57:13-76
+activity#com.ksyun.media.streamer.demo.StdCameraActivity
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:63:9-69:20
+	android:screenOrientation
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:67:13-49
+	android:launchMode
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:66:13-43
+	android:configChanges
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:65:13-74
+	android:theme
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:68:13-55
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:64:13-75
+activity#com.ksyun.media.streamer.demo.FloatCameraActivity
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:70:9-76:20
+	android:screenOrientation
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:74:13-49
+	android:launchMode
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:73:13-43
+	android:configChanges
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:72:13-74
+	android:theme
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:75:13-55
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:71:13-77
+activity#com.ksyun.media.streamer.demo.FloatViewActivity
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:77:9-81:20
+	android:launchMode
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:79:19-49
+	android:configChanges
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:78:19-80
+	android:theme
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:80:19-61
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:77:19-81
+activity#com.ksyun.media.streamer.demo.AudioStreamingActivity
+ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:82:9-86:20
+	android:launchMode
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:84:19-49
+	android:configChanges
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:83:19-80
+	android:theme
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:85:19-61
+	android:name
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml:82:19-86
+uses-sdk
+INJECTED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml
+INJECTED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml
+MERGED from [com.lht:paintview:1.17] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\paintview-1.17.aar\9624046888d2e1db28e192e05e433a4b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.lht:paintview:1.17] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\paintview-1.17.aar\9624046888d2e1db28e192e05e433a4b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.h6ah4i.android.widget.verticalseekbar:verticalseekbar:0.7.2] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\verticalseekbar-0.7.2.aar\59698fc0d657fc807d6b41e91ca34891\AndroidManifest.xml:23:5-25:41
+MERGED from [com.h6ah4i.android.widget.verticalseekbar:verticalseekbar:0.7.2] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\verticalseekbar-0.7.2.aar\59698fc0d657fc807d6b41e91ca34891\AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\7018ea31001c8b20505135d37ee976d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\7018ea31001c8b20505135d37ee976d7\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\fresco-1.4.0.aar\b292ea0beb0e45c61a72071b881a44f2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\fresco-1.4.0.aar\b292ea0beb0e45c61a72071b881a44f2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\animated-gif-1.4.0.aar\8f9fc9beecb153d4596e4cb5cf48c35e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\animated-gif-1.4.0.aar\8f9fc9beecb153d4596e4cb5cf48c35e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\animated-webp-1.4.0.aar\b50390987da76d34015b24809bb1194c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\animated-webp-1.4.0.aar\b50390987da76d34015b24809bb1194c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\115d3452e8bd96a04083cc01cf7b3ec7\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\115d3452e8bd96a04083cc01cf7b3ec7\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\ac2e0591ecceb259803dd596e1310dcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\ac2e0591ecceb259803dd596e1310dcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\6200ca38815877af34f214867fd3012c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\6200ca38815877af34f214867fd3012c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\a9fdaf64c1b923f4c4fcbf0bf3f5c84d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\a9fdaf64c1b923f4c4fcbf0bf3f5c84d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\30fa5728b854c539b275850aff8cf736\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\30fa5728b854c539b275850aff8cf736\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\939af0c81a3a046d10dfd85b5b8c3ff9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\939af0c81a3a046d10dfd85b5b8c3ff9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\4436329ae52f99d45a8fb645eacd0d44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\4436329ae52f99d45a8fb645eacd0d44\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:animated-base:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\animated-base-1.4.0.aar\deb3d19d6c4537d0384f0523db76522c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\animated-base-1.4.0.aar\deb3d19d6c4537d0384f0523db76522c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.4.0.aar\9e8ff607b1baab94cd5c34524f014882\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.4.0.aar\9e8ff607b1baab94cd5c34524f014882\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\drawee-1.4.0.aar\72534061a2adbddd30fd8b5566b81ec5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\drawee-1.4.0.aar\72534061a2adbddd30fd8b5566b81ec5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.4.0.aar\a02f297eabc512f2e1aaf2a8e105463b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.4.0.aar\a02f297eabc512f2e1aaf2a8e105463b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\webpsupport-1.4.0.aar\d2033ff61ad9d52eae5a10557f7c6984\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\webpsupport-1.4.0.aar\d2033ff61ad9d52eae5a10557f7c6984\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.4.0.aar\46baf3ab19bb4e559699e43e64ea812f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.4.0.aar\46baf3ab19bb4e559699e43e64ea812f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\fbcore-1.4.0.aar\0430e4b361565de683ba0633f7df8343\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.4.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\fbcore-1.4.0.aar\0430e4b361565de683ba0633f7df8343\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c8815bb2bc3c2a4c85e2cd5b360e1893\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c8815bb2bc3c2a4c85e2cd5b360e1893\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml
+INJECTED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml
+		INJECTED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml
+		ADDED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml
+		INJECTED from D:\Code\KSYStreamer_Android-master\demo\AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c8815bb2bc3c2a4c85e2cd5b360e1893\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c8815bb2bc3c2a4c85e2cd5b360e1893\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\luyao\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c8815bb2bc3c2a4c85e2cd5b360e1893\AndroidManifest.xml:26:13-58

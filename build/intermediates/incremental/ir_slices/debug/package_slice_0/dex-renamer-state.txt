@@ -1,0 +1,4 @@
+#Tue Feb 19 16:27:27 CST 2019
+base.0=D\:\\Code\\KSYStreamer_Android-master\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
